@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1033411684493",
+    "firebase_url": "https://myapplicationauthentication.firebaseio.com",
+    "project_id": "myapplicationauthentication",
+    "storage_bucket": "myapplicationauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033411684493:android:c09cdd69d3a34510",
+        "android_client_info": {
+          "package_name": "com.example.harivishnu.indorepositioningsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033411684493-r0i6fi7stsf7l7u2catsgbb6ksm4gq44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harivishnu.indorepositioningsystem",
+            "certificate_hash": "8ada7d9f29da25857d64402ffd6e5c6275b185b1"
+          }
+        },
+        {
+          "client_id": "1033411684493-a7ntvtkm6gbaaumhs2pt7e1r845ubcef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkfQjg7RCX4lNFY0I0L9qpPkgLOODEU8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033411684493-a7ntvtkm6gbaaumhs2pt7e1r845ubcef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
